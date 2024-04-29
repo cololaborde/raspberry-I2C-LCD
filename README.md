@@ -24,7 +24,7 @@ This repository provides a utility for logging useful information from a Raspber
 - Clone this repository to your Raspberry Pi:
 
 ```bash
-git clone git@github.com:cololaborde/raspberry-I2C-LCD.git
+git clone git@github.com:cololaborde/raspberry-I2C-LCD-logger.git
 ```
 
 ## Usage
